@@ -35,3 +35,7 @@ To test speakers: `aplay --device=plughw:3,0 test.wav`
 ## Google Assistant Setup
 
 Check out the website (https://pimylifeup.com/raspberry-pi-google-assistant/) for detailed instructions.
+
+## Make Kermit Speak!
+
+Use the eSpeak software, an open source text-to-speech software.
